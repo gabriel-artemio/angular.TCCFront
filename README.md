@@ -1,1 +1,0 @@
-# SmartGela - Frontend do TCC
