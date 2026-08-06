@@ -1,1 +1,1 @@
-# Álbum Digital da Copa do Mundo 2026
+# Logging com Serilog, ASP.NET Core e SQLite
